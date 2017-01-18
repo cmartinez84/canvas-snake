@@ -1,0 +1,11 @@
+body{
+  text-align: center;
+}
+h1{
+  font-family: 'Overpass Mono', monospace;
+}
+canvas{
+  margin-top: 40px;
+  border: 1px  solid #d3d3d3;
+  background-color: black;
+}
