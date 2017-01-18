@@ -7,7 +7,7 @@
 ## Description
 _The famous Snake game. eat food, grow, dont go off canvas or fold in on yourself. neat.
 
-https://cmartinez84.github.io/snake
+https://cmartinez84.github.io/canvas-snake
 
 ## Known Bugs
 _Do not use this in IE. Why are you using IE?
